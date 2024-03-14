@@ -2,6 +2,8 @@
 
 ![The Restaurant Booking system](docs/readme/project-mockup.jpg)
 
+TEST
+
 A web application that enables users to know more about the restaurant, manage bookings and view the menu, as well as a tool for restaurant owners and staff to organise their bookings.
 
 Visit the live site: [MegaRestaurant booking system](https://megarestaurant-20c7141b277b.herokuapp.com/)
